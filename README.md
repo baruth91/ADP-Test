@@ -26,7 +26,7 @@ This repository contains the solution for the QA Automation technical challenge 
 ### Setup
 
 1. **Clone the repository:**
-git clone [https://github.com/](https://github.com/)[SEU_USUARIO_AQUI]/ADP-TEST.git
+git clone [https://github.com/baruth91]/ADP-TEST.git
 cd ADP-TEST
 2. **Install dependencies:**
 npm install
