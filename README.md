@@ -38,7 +38,6 @@ npx playwright install
 * **Run all tests (Headless mode - Default):**
   npx playwright test
 * **Run all tests (Headed mode):**
-
   npx playwright test --headed
 * **Run tests in UI Mode (interactive):**
   npx playwright test --ui
