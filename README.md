@@ -39,8 +39,10 @@ npx playwright install
   ```bash
   npx playwright test
 * **Run all tests (Headed mode):**
+```bash
 npx playwright test --headed
 * **Run tests in UI Mode (interactive):**
+```bash
 npx playwright test --ui
 
 ## Viewing Test Results
