@@ -36,14 +36,12 @@ npx playwright install
 ### Execution
 
 * **Run all tests (Headless mode - Default):**
-  ```bash
   npx playwright test
 * **Run all tests (Headed mode):**
-```bash
-npx playwright test --headed
+
+  npx playwright test --headed
 * **Run tests in UI Mode (interactive):**
-```bash
-npx playwright test --ui
+  npx playwright test --ui
 
 ## Viewing Test Results
 
